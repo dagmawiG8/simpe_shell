@@ -1,0 +1,19 @@
+.TH simple_shell "30 October 2021" "V1.0" "simple_shell man page"
+.SH NAME				
+.B simple_shell - Simple Unix comand interpreter	
+simple_shell: the shell or command interpreter is the computer program 
+that provides a user interface to access the services of the operating system.
+
+.SH SYNOPSYS				
+.B #include \fB"shell.h"
+
+./hsh
+/bin/[command] [option]
+[command] [option]
+
+.SH DESCRIPTION
+Shell is a user interface to use the services of a computer. 
+It can be a command-line interface –the one we will build- or graphical user interface, 
+like regular software such as Windows Office.
+
+sh
